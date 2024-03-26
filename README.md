@@ -16,7 +16,8 @@ The file labeled Instructions_Fourier_Analysis_Spreadsheets_GitHub.xlsx describe
 
 The last file is a pdf copy of the presentation I gave at the Flagstaff ISGC24 meeting. You can view this to get ideas on how to format and display your own data. Each slide has Notes under each figure which causes the pages to have Portrait Orientation. Just use the pdf plus-button to increase the view size to see both slides and notes. 
 
-Here are instructions for downloading files from this package. On the File-View page, click on the file name you want to download. The next page you see will say, "Sorry about that, but we can't show files that are this big right now". Ignore this warning and look for the RAW button above and to the right of this warning. Click on the RAW button, and the file will automatically download to your computer's Download Folder. You'll probably want to move the file from the Download folder to a New Project folder on your computer. 
+Here are instructions for downloading files from this package. On the File-View page, click on the file name you want to download. The next page might say, "Sorry about that, but we can't show files that are this big right now". Ignore this warning and look for the RAW button above and to the right of this warning. Click on the RAW button, and the file will automatically download to your computer's Download Folder. On the other hand, a preview of the file might appear if the file size is not too large. In that case, you'll see a button with a down-arrow on the right side. Click on the down arrow and the file will go to your computer's Download Folder. You'll probably want to move the file from the Download folder to a New Project folder on your computer. 
 
 If you have any problems, send me a note at johndunham76@gmail.com 
+
 
